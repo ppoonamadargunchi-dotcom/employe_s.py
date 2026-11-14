@@ -1,6 +1,6 @@
 import sys
 
-basic = int(sys.arg[1])
+basic = int(sys.argv[1])
 hra = 20/100 * basic
 da = 10/100 * basic
 
