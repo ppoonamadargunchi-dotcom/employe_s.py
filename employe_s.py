@@ -1,4 +1,6 @@
-basic = int(input("enter input"))
+import sys
+
+basic = int(sys.arg[1])
 hra = 20/100 * basic
 da = 10/100 * basic
 
